@@ -1,0 +1,4 @@
+
+-Tanto inicio como destino se seccionan en el listbox 
+-el programa selecciona automaticamente como inicio al ultimo vertice que visitó la particula.
+-para elegir un nuevo inicio se utiliza el tercer botón.

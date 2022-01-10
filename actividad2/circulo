@@ -1,0 +1,33 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: vdgp_
+ * Date: 16/02/2020
+ * Time: 12:35 a. m.
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace act2
+{
+	/// <summary>
+	/// Description of Datos.
+	/// </summary>
+	public class Datos
+	{
+		int x;
+		int y;
+		int r;
+		public Datos(int x_,int y_, int r_)
+		{
+			x=x_;
+			y=y_;
+			r=r_;
+		}
+		public override string ToString()
+{
+	return string.Format("[ X={0}, Y={1}, R={2}]", x, y, r);
+}
+
+	}
+}

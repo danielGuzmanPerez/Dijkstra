@@ -1,0 +1,18 @@
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\bin\Debug\actividad4.exe.config
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\bin\Debug\actividad4.exe
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\bin\Debug\actividad4.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad4.csprojResolveAssemblyReference.cache
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad2.MainForm.resources
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad4.csproj.GenerateResource.Cache
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad4.exe
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad4.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\actividad2\actividad2\obj\Debug\actividad2.mensaje.resources
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\bin\Debug\actividad4.exe.config
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\bin\Debug\actividad4.exe
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\bin\Debug\actividad4.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad4.csprojResolveAssemblyReference.cache
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad2.MainForm.resources
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad2.mensaje.resources
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad4.csproj.GenerateResource.Cache
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad4.exe
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\actividad4\actividad2\obj\Debug\actividad4.pdb
